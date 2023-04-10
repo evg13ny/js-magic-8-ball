@@ -1,0 +1,1 @@
+Classic Magic 8 Ball game built with JavaScript. Try you luck [here](https://evg13ny.github.io/js-magic-8-ball/) 😀
